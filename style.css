@@ -1,0 +1,12 @@
+#submitbt{
+    margin-top: 20px;
+    margin-bottom:20px;
+}
+#sortbt{
+    margin-top: 20px;
+    margin-bottom:20px;
+    display:none;
+}
+input{
+    margin:10px;
+}
